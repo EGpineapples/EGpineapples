@@ -12,7 +12,7 @@ Data Scientist and Engineer with a strong background in Mathematical Modelling, 
 - Developed an innovative deep learning model using Python, TensorFlow, and Graph Neural Networks
 - Implemented a Relational Graph Convolutional Variational Autoencoder with a Regression Network
 - Utilized Google Maps and Mapillary APIs for data extraction and feature engineering
-- 
+  
 ### Cell Lifelines Autoencoder 🧫
 - Developed and trained a custom TensorFlow & Python deep learning generative AI autoencoder (VAE) for time-series analysis
 - Achieved over 90% dimensionality reduction with less than 5% error in cell lifespan and metabolism analysis
