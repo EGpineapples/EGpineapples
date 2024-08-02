@@ -12,18 +12,18 @@ Data Scientist and Engineer with a strong background in Mathematical Modelling, 
 - Developed an innovative deep learning model using Python, TensorFlow, and Graph Neural Networks
 - Implemented a Relational Graph Convolutional Variational Autoencoder with a Regression Network
 - Utilized Google Maps and Mapillary APIs for data extraction and feature engineering
-
-### Fine-Tuning LLMs with Low Rank Adaptation (LoRA) 🤖
-- Implemented LoRA on BERT's attention mechanism
-- Fine-tuned a bert-base-cased model on Yelp reviews using LoRA
-- Explored parameter-efficient fine-tuning techniques including prefix-tuning
-
+- 
 ### Cell Lifelines Autoencoder 🧫
 - Developed and trained a custom TensorFlow & Python deep learning generative AI autoencoder (VAE) for time-series analysis
 - Achieved over 90% dimensionality reduction with less than 5% error in cell lifespan and metabolism analysis
 - Presented research on "Decoding Cell Behavior in Bioreactors: Deep Learning & Latent Space Insights" at a major symposium
 - Applied advanced data manipulation techniques using Pandas and machine learning models with scikit-learn 
 - Implemented clustering, classification, and regression models on large-scale biological datasets
+
+### Fine-Tuning LLMs with Low Rank Adaptation (LoRA) 🤖
+- Implemented LoRA on BERT's attention mechanism
+- Fine-tuned a bert-base-cased model on Yelp reviews using LoRA
+- Explored parameter-efficient fine-tuning techniques including prefix-tuning
 
 ## Affiliations 🤝
 - Data Angels Women in Data Networking Group (Jan 2024 – Present)
