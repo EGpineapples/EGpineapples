@@ -51,4 +51,3 @@ Data Scientist and Engineer with a strong background in Mathematical Modelling, 
 ## Contact 📫
 - Email: elysiagao@gmail.com
 - LinkedIn: [Elysia Gao](https://www.linkedin.com/in/elysiagao/)
-- Phone: +1(832) 788-6080
