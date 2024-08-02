@@ -8,7 +8,12 @@ Data Scientist and Engineer with a strong background in Mathematical Modelling, 
 - **Data Science/ML**: Deep Learning, Generative AI, NLP, LLMs, Optimization, A/B Testing
   
 ## Projects 🛠️
-### Spatio-Temporal Deep Learning Graph Neural Networks 🗺️
+### Spatio-Temporal Deep Learning Graph Neural Networks 🗺️ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks-4B8BBE?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+
 - Developed an innovative deep learning model using Python, TensorFlow, and Graph Neural Networks
 - Implemented a Relational Graph Convolutional Variational Autoencoder with a Regression Network
 - Utilized Google Maps and Mapillary APIs for data extraction and feature engineering
