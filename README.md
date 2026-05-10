@@ -4,8 +4,8 @@
 Data Scientist and AI/ML Engineer with a strong background in Mathematical Modelling, Computation, and Chemical Engineering. Passionate about applying advanced machine learning and deep learning techniques to solve complex problems in biosustainability and urban mobility.
 
 ## Skills 💻
-- **Programming/Tools**: Python, Sci-kit, Pandas, R, MATLAB, TensorFlow, PyTorch, C/C++, SQL, Tableau
-- **Data Science/ML**: Deep Learning, Generative AI, NLP, LLMs, Optimization, A/B Testing
+- **Programming/Tools**: Python (Pandas, Scikit-learn, NumPy), R, SQL, C/C++, TensorFlow, PyTorch, Docker, Git, Azure DevOps, Azure, Google Cloud, LangChain, Airflow, MLflow, Tableau, Streamlit, Power BI, DuckDB, Databricks, Spark, Redshift, Terraform
+- **Machine Learning/Statistics**: Forecasting, Deep Learning, NLP, Generative AI, LLMs (fine-tuning, RAG), Clustering, Anomaly Detection, Reinforcement Learning, Statistical Modeling (GLMs, A/B Testing)
   
 ## Projects 🛠️
 ### Spatio-Temporal Deep Learning Graph Neural Networks 🗺️ 
