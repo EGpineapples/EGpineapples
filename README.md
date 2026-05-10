@@ -1,7 +1,7 @@
 # Elysia Gao 👩‍🔬🌍
 
 ## About Me 🚀
-Data Scientist and Engineer with a strong background in Mathematical Modelling, Computation, and Chemical Engineering. Passionate about applying advanced machine learning techniques to solve complex problems in biosustainability and urban mobility.
+Data Scientist and AI/ML Engineer with a strong background in Mathematical Modelling, Computation, and Chemical Engineering. Passionate about applying advanced machine learning and deep learning techniques to solve complex problems in biosustainability and urban mobility.
 
 ## Skills 💻
 - **Programming/Tools**: Python, Sci-kit, Pandas, R, MATLAB, TensorFlow, PyTorch, C/C++, SQL, Tableau
