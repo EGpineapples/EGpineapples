@@ -1,6 +1,9 @@
 # Elysia Gao
 ### AI/ML Engineer & Data Scientist | End-to-End ML, From Research to Production 🛠️
 
+## About Me 🚀
+Data Scientist and AI/ML Engineer with a strong background in Mathematical Modelling, Computation, and Chemical Engineering. Passionate about applying advanced machine learning and deep learning techniques to solve complex problems in biosustainability and urban mobility.
+
 ## Skills 💻
 - **Programming/Tools**: Python (Pandas, Scikit-learn, NumPy), R, SQL, C/C++, TensorFlow, PyTorch, Docker, Git, Azure DevOps, Azure, Google Cloud, LangChain, Airflow, MLflow, Tableau, Streamlit, Power BI, DuckDB, Databricks, Spark, Redshift, Terraform
 - **Machine Learning/Statistics**: Forecasting, Deep Learning, NLP, Generative AI, LLMs (fine-tuning, RAG), Clustering, Anomaly Detection, Reinforcement Learning, Statistical Modeling (GLMs, A/B Testing)
